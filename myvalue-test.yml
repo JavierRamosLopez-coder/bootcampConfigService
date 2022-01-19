@@ -1,7 +1,7 @@
 server:
  port: 8082
 some:
- value: valor del servidor updateado
+ value: valor del servidor updated
 management:
  endpoints:
   web:
