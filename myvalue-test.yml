@@ -1,7 +1,7 @@
 server:
  port: 8082
 some:
- value: valor del servidor en test ha sido modificado
+ value: valor del servidor en test ha sido modificado por tercera vez
 management:
  endpoints:
   web:
